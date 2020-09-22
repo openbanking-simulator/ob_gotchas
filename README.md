@@ -2,9 +2,11 @@
 
 ## Things to do
 
-* https://www.bazel.build/
+[] https://www.bazel.build/
 
-* https://stackoverflow.com/questions/45333463/directory-structure-for-project-with-dockerfile-jekinsfile-kubernetes-deployme
+[] https://stackoverflow.com/questions/45333463/directory-structure-for-project-with-dockerfile-jekinsfile-kubernetes-deployme
+
+[] Integrate Azure Pipeline
 
 ## Spring Initilizer
 
