@@ -8,6 +8,9 @@
 
 ## Spring Initilizer
 
+API Interface - ACCC Data61 Swagger codegen
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.3.4.RELEASE&packaging=jar&jvmVersion=11&groupId=com.openbanking.simulator&artifactId=ob-api-interface&name=ob-api-interface&description=Open%20Banking%20API%20Interface%20based%20on%20ACCC%20Data61%20Specification&packageName=com.openbanking.simulator.ob-api-interface&dependencies=webflux
+
 Accounts API - Mongo
 https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.3.4.RELEASE&packaging=jar&jvmVersion=11&groupId=com.openbanking.simulator&artifactId=ob-api-accounts&name=ob-api-accounts&description=Open%20Banking%20Accounts%20API&packageName=com.openbanking.simulator.ob-api-accounts&dependencies=devtools,lombok,configuration-processor,webflux,data-mongodb-reactive,actuator,flapdoodle-mongo,cloud-resilience4j,cloud-starter-sleuth
 
