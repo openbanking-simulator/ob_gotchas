@@ -8,7 +8,7 @@
 
 * Integrate AWS/Azure Pipeline
 
-* (How data recipients can implement Open Banking on AWS)[https://aws.amazon.com/blogs/industries/how-data-recipients-can-implement-open-banking-on-aws/]
+* [How data recipients can implement Open Banking on AWS](https://aws.amazon.com/blogs/industries/how-data-recipients-can-implement-open-banking-on-aws/)
 
 ## Spring Initilizer
 
