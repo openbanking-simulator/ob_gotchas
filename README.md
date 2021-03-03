@@ -6,7 +6,9 @@
 
 * https://stackoverflow.com/questions/45333463/directory-structure-for-project-with-dockerfile-jekinsfile-kubernetes-deployme
 
-* Integrate Azure Pipeline
+* Integrate AWS/Azure Pipeline
+
+* (How data recipients can implement Open Banking on AWS)[https://aws.amazon.com/blogs/industries/how-data-recipients-can-implement-open-banking-on-aws/]
 
 ## Spring Initilizer
 
